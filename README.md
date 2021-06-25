@@ -45,3 +45,8 @@ https://websitedemos.net/steak-house-02/
 ![tmp(5)](https://user-images.githubusercontent.com/77494902/123410035-c321ed00-d5a6-11eb-94bf-f5a25d69bd9d.jpg)
 
 ## Modifications made :
+![1](https://user-images.githubusercontent.com/77494902/123411333-3ed06980-d5a8-11eb-8cfe-a6c81bd700ef.jpg)
+![2](https://user-images.githubusercontent.com/77494902/123411339-40019680-d5a8-11eb-8b13-34fad55bbf4d.jpg)
+![3](https://user-images.githubusercontent.com/77494902/123411342-409a2d00-d5a8-11eb-944f-d53103d56df7.jpg)
+![4](https://user-images.githubusercontent.com/77494902/123411351-42fc8700-d5a8-11eb-9d1a-ef72d75c1667.jpg)
+![5](https://user-images.githubusercontent.com/77494902/123411355-455ee100-d5a8-11eb-8c4e-b25868585152.jpg)
