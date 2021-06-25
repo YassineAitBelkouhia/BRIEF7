@@ -16,6 +16,7 @@ We will be using WORDPRESS for the upcoming projects.
 
 ## SETUP:
 1st: Download WordPress from the official website https://wordpress.org/
+![wordpressDownload](https://user-images.githubusercontent.com/77494902/123405816-1cd3e880-d5a2-11eb-8d5c-548b3fdde6b7.jpg)
 
 2nd: Unzip the downloaded zip file and put the extracted files in XAMP's htdocs
 
