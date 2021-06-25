@@ -25,7 +25,10 @@ We will be using WORDPRESS for the upcoming projects.
 
 
 3rd: Install WordPress on Localhost, Type localhost/wordpress on your browser’s address bar and hit enter then select a dataBase
+![selectlanguage](https://user-images.githubusercontent.com/77494902/123407955-6b828200-d5a4-11eb-8150-be207929f982.png)
 
 4th: Install one of the themes available for free (My pick is ASTRA Theme https://wpastra.com/) 
+![theme](https://user-images.githubusercontent.com/77494902/123407977-70473600-d5a4-11eb-94f5-ee8872032096.jpg)
+
 
 5th: Install needed Plugins (My pick, ELEMENTOR (For editing) and ALL-IN-ONE MIGRATION (To easily Export or import my project))
