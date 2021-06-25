@@ -3,7 +3,13 @@
 ## WHAT IS CMS ?
 A content management system, often abbreviated as CMS, is software that helps users create, manage, and modify content on a website without the need for specialized technical knowledge.
 
-The most popular CMS is WordPress, We will be using it for the upcoming projects. 
+### Top 3 CMS :
+
+-Wordpress : The most popular content management system, powers over 1/3 of the internet and it has a large community.
+-Drupal : Another popular CMS, you need to be a bit more technical to use it, ultimately it is been used a lot of things like govermment websites because of it s ability to be more secure
+-Jumla : Another Popular CMS it's got a good community, has the second highest market share after WORDPRESS
+
+We will be using WORDPRESS for the upcoming projects. 
 
 ## SETUP:
 1st: Download WordPress from the official website https://wordpress.org/
