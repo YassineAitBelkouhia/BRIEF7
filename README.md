@@ -20,6 +20,8 @@ We will be using WORDPRESS for the upcoming projects.
 
 2nd: Unzip the downloaded zip file and put the extracted files in XAMP's htdocs
 ![winrarWordpress](https://user-images.githubusercontent.com/77494902/123406630-04b09900-d5a3-11eb-9ae0-9f4c6ad7df59.jpg)
+![wordpressXamp](https://user-images.githubusercontent.com/77494902/123407433-e1d2b480-d5a3-11eb-9204-fa3d7871d1a8.jpg)
+
 
 
 3rd: Install WordPress on Localhost, Type localhost/wordpress on your browser’s address bar and hit enter then select a dataBase
