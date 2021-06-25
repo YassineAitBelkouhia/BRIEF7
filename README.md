@@ -32,3 +32,5 @@ We will be using WORDPRESS for the upcoming projects.
 
 
 5th: Install needed Plugins (My pick, ELEMENTOR (For editing) and ALL-IN-ONE MIGRATION (To easily Export or import my project))
+![plugins](https://user-images.githubusercontent.com/77494902/123408463-f5324f80-d5a4-11eb-99ce-e3e71dfbe71e.jpg)
+
